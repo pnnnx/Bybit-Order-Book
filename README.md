@@ -1,7 +1,7 @@
 # 📊 BTC/USDT Real-Time Orderbook Monitor 🚀
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![Pybit](https://img.shields.io/badge/Pybit-3.1.0+-green?logo=python)
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![Pybit](https://img.shields.io/badge/Pybit-5.11.0+-green?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > 🌟 Real-time BTC/USDT orderbook monitoring with color visualization directly in terminal
