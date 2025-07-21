@@ -31,7 +31,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/btc-orderbook-monitor.git
+git clone git@github.com:pnnnx/Bybit-Order-Book.git
 cd btc-orderbook-monitor
 
 # 2. Install dependencies
